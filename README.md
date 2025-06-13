@@ -1,8 +1,8 @@
-## ¤ 👋 Hi, I’m Seaweed, student and aspiring Game Dev from Germany! 
-## ¤ 🧙🏽‍♂️ I am mostly versed in Game Art but am also dabbling in the sorcery that is Game Design
-## ¤ ⚡ My Skills are: Unity-Development, C#, Game-Art and Leveldesign
-## ¤ 🌱 My goal is to become a Game Dev with skills in all spects of game development
-## ¤ 📫 You can reach out to me through my portfolio linked on my profile
+ ¤ 👋 Hi, I’m Seaweed, student and aspiring Game Dev from Germany! 
+ ¤ 🧙🏽‍♂️ I am mostly versed in Game Art but am also dabbling in the sorcery that is Game Design
+ ¤ ⚡ My Skills are: Unity-Development, C#, Game-Art and Leveldesign
+ ¤ 🌱 My goal is to become a Game Dev with skills in all spects of game development
+ ¤ 📫 You can reach out to me through my portfolio linked on my profile
 
 <!--
 **HerbeAmAbgehen/HerbeAmAbgehen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
