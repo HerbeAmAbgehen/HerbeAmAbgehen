@@ -1,7 +1,7 @@
  ¤ 👋 Hi, I’m Seaweed, student and aspiring Game Dev from Germany! <br />
  ¤ 🧙🏽‍♂️ I am mostly versed in Game Art but am also dabbling in the sorcery that is Game Design <br />
  ¤ ⚡ My Skills are: Unity-Development, C#, Game-Art and Leveldesign <br />
- ¤ 🌱 My goal is to become a Game Dev with skills in all spects of game development <br />
+ ¤ 🌱 My goal is to become a Game Developer with skills in all aspects of game development <br />
  ¤ 📫 You can reach out to me through my portfolio linked on my profile <br />
 
 <!--
